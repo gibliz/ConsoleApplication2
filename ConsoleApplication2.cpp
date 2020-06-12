@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World, ver2!\n";
+    std::cout << "Hello World, ver3!\n";
     std::cin.get();
 }
 
